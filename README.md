@@ -9,4 +9,14 @@
    \|_________|
 ```
 <!--START_SECTION:waka-->
+
+```text
+TypeScript         4 hrs 35 mins   █████████████████▒░░░░░░░   69.03 %
+Python             1 hr 55 mins    ███████▒░░░░░░░░░░░░░░░░░   28.88 %
+JavaScript         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+JSON               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+requirements.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+YAML               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+```
+
 <!--END_SECTION:waka-->
