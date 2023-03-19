@@ -14,11 +14,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 14 mins
+Total Time: 0 secs
 
-YAML         9 mins          ████████████████▒░░░░░░░░   65.09 %
-TypeScript   4 mins          ████████▓░░░░░░░░░░░░░░░░   34.00 %
-Python       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
