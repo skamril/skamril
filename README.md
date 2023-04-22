@@ -16,8 +16,8 @@
 ```text
 Total Time: 8 hrs 28 mins
 
-TypeScript   6 hrs 29 mins   ███████████████████░░░░░░   76.58 %
-Python       1 hr 53 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.30 %
+TypeScript   6 hrs 29 mins   ███████████████████░░░░░░   76.57 %
+Python       1 hr 53 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.31 %
 JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
 ```
 
