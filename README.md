@@ -14,11 +14,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 8 hrs 28 mins
+Total Time: 0 secs
 
-TypeScript   6 hrs 29 mins   ███████████████████░░░░░░   76.57 %
-Python       1 hr 53 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.31 %
-JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
