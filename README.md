@@ -14,11 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 22 mins
+Total Time: 1 hr 32 mins
 
-Python           56 mins         █████████████████░░░░░░░░   67.85 %
-JSON             13 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.77 %
-TypeScript       12 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.37 %
+Python           44 mins         ████████████░░░░░░░░░░░░░   48.51 %
+TypeScript       33 mins         █████████░░░░░░░░░░░░░░░░   36.25 %
+JSON             14 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.24 %
 GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
