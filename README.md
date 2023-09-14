@@ -14,13 +14,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 hrs 46 mins
+Total Time: 0 secs
 
-TypeScript   4 hrs 23 mins   ███████████████████████░░   92.23 %
-Ezhil        18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
-JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
