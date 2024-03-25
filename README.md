@@ -9,7 +9,7 @@
    \|_________|
 ```
 
-`📊 Weekly development breakdown`
+`📊 Weekly development breakdown (from WakaTime)`
 
 <!--START_SECTION:waka-->
 
