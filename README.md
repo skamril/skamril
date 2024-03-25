@@ -9,7 +9,7 @@
    \|_________|
 ```
 
-`📊 Weekly development breakdown (WakaTime)`
+<code>📊 Weekly development breakdown ([WakaTime](https://wakatime.com/@skamril))</code>
 
 <!--START_SECTION:waka-->
 
