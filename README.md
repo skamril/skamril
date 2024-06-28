@@ -14,13 +14,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 36 mins
+Total Time: 25 mins
 
-JSON           25 mins         █████████████████░░░░░░░░   68.39 %
-Markdown       8 mins          ██████░░░░░░░░░░░░░░░░░░░   24.49 %
-Python         2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
-Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-Bash           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+JSON   25 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
