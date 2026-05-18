@@ -16,7 +16,8 @@
 ```txt
 Total Time: 42 mins
 
-TypeScript   42 mins               █████████████████████████   100.00 %
+TypeScript   42 mins               ████████████████████████▓   99.30 %
+Bash         0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
 ```
 
 <!--END_SECTION:waka-->
