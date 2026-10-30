@@ -14,10 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 12 hrs 52 mins
+Total Time: 12 hrs 48 mins
 
-TypeScript   12 hrs 33 mins        ████████████████████████▒   97.55 %
-JSON         16 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+TypeScript   12 hrs 32 mins        ████████████████████████▒   97.90 %
+nvmrc        7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+JSON         6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 YAML         2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
